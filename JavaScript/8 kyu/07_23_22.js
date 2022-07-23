@@ -1,0 +1,1 @@
+const setAlarm = (sleep, wake) => sleep && !wake;
