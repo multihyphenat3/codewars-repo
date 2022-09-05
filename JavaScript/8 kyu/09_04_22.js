@@ -1,0 +1,1 @@
+const grow = (nums) => nums.reduce((product, num) => product * num, 1);
